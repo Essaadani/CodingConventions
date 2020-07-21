@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingConventions", "Coding
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingPrinciples", "CodingPrinciples\CodingPrinciples.csproj", "{15FA6D8B-6109-4B13-AC88-36E670989864}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFBestPractices", "EFBestPractices\EFBestPractices.csproj", "{69C7688C-0097-49AD-AD59-1764A34BD2B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{15FA6D8B-6109-4B13-AC88-36E670989864}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15FA6D8B-6109-4B13-AC88-36E670989864}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15FA6D8B-6109-4B13-AC88-36E670989864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C7688C-0097-49AD-AD59-1764A34BD2B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C7688C-0097-49AD-AD59-1764A34BD2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C7688C-0097-49AD-AD59-1764A34BD2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C7688C-0097-49AD-AD59-1764A34BD2B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
